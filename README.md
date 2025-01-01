@@ -4,6 +4,11 @@ Developed a cutting-edge text-to-image generator utilizing deep learning algorit
 
 <iframe width="560" height="315" src="Images/Imator.mp4" frameborder="0" allowfullscreen></iframe>
 
+<video width="640" height="360" controls>
+  <source src="Images/Imator.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # Model Result 
 ![dog on moon](Images/image1.png)
 #
